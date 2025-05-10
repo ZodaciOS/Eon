@@ -7,7 +7,7 @@ This tweak is still in development & not released.
 
 <H1 align="center">Introduction</H1>
 
-<img src="https://github.com/ZodaciOS/Acrypt/blob/main/94288D3E-2E15-4C83-90C0-4EBEDA40F719.jpeg" align="left" width="150" height="150" alt="litera1n logo">
+<img src="https://github.com/ZodaciOS/Eon/blob/main/IMG_8642.png" align="left" width="150" height="150" alt="litera1n logo">
 
 Eon is a tweak that renovates your entire homescreen & springboard. Similar to Atria, this tweak is used to serve as an alternative.
 
