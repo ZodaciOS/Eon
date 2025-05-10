@@ -57,7 +57,7 @@ Set apps anywhere on the homescreen grid, including the dock.
 
 - Customizing all on the home screen
 
-Instead
+Instead of customizing via PreferenceBundles in settings, users can configure their settings via on the home screen.
 
 ## Frequently Asked Questions (FAQ)
 
