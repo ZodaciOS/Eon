@@ -65,7 +65,9 @@ Instead of customizing via PreferenceBundles in settings, users can configure th
 
 Load 4 x 4 grids per page, less or more.
 
+- X & y Icon distances
 
+Custom icon distances (x & y axis)
 ## Frequently Asked Questions (FAQ)
 
 **When will this release?**
