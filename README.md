@@ -31,6 +31,8 @@ Still in development.
 
 ## Features
 
+### Direct Customization
+
 - Set row/collum lengths
 
 Only want a certain amount of apps in a row/collum? This configuration allows you to lower the rows to 1.
@@ -58,6 +60,11 @@ Set apps anywhere on the homescreen grid, including the dock.
 - Customizing all on the home screen
 
 Instead of customizing via PreferenceBundles in settings, users can configure their settings via on the home screen.
+
+- Custom icon grids
+
+Load 4 x 4 grids per page, less or more.
+
 
 ## Frequently Asked Questions (FAQ)
 
